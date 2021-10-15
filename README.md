@@ -1,0 +1,4 @@
+- Hey, I’m @nullowo ! 👋
+- I enjoy programming, messing around on the internet, and travelling
+- I'm currently learning HTML, CSS, JS, and PHP. I'm interested in pursuing Python in the future as well.
+- You can reach me on Discord at exe#5510
